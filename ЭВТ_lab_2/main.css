@@ -1,0 +1,129 @@
+#first_line {
+    width: 100%;
+    height: 30px;
+    background-color: #140083;
+    margin: 0;
+}
+
+.tieu_de {
+    width: 100%;
+    float: left;
+    margin: 10px;
+}
+
+.tieu_de--img {
+    padding: 0 40% 0 100px;
+    max-height: 30px;
+    width: auto;
+    float: left;
+}
+
+.tieu_de_chu {
+    color: #140083;
+    font-weight: 800;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+.main-menu {
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    background-color: #5c82ff;
+    margin: 0 auto;
+}
+
+.main-menu li {
+    display: inline-block;
+    text-decoration: none;
+    width: 150px;
+    text-align: center;
+    justify-items: center;
+    padding: 0 20px;
+}
+
+.main-menu li a {
+    text-decoration: none;
+    text-align: center;
+    font-size: 17px;
+    color: #6703da;
+    line-height: 50px;
+}
+
+.home-img {
+    width: 100%;
+    height: auto;
+}
+
+.main-content {
+    display: block;
+    width: 100%;
+    justify-items: center;
+    margin: 20px 0;
+}
+
+.main-content-left {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 15px;
+    margin-left: 10%;
+    border: solid 2px #140083;
+    border-radius: 20px;
+    width: 550px;
+    height: 180px;
+}
+
+.main-content-left--a {
+    margin: none;
+    padding: none;
+    border: none;
+}
+
+.main-content-left--b {
+    border: none;
+}
+
+.main-content-right {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 15px;
+    margin-left: 10%;
+    border: solid 2px #140083;
+    border-radius: 20px;
+    width: 550px;
+    height: 180px;
+}
+
+.main-content-right--a {
+    margin: none;
+    padding: none;
+    border: none;
+}
+
+.main-content-right--b {
+    border: none;
+}
+
+.footer {
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    background-color: #0e008d;
+}
+
+.footer li {
+    /* padding-left: 100px; */
+    display: inline-block;
+    text-decoration: none;
+    width: auto;
+    text-align: center;
+    justify-items: center;
+    padding: 0 5%;
+}
+
+.footer li a {
+    line-height: 50px;
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+}
